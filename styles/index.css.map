@@ -2,7 +2,11 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "index.scss"
+        "index.scss",
+        "../scss/_footer.scss",
+        "../scss/_global.scss",
+        "../scss/_header.scss",
+        "../scss/_variable.scss"
     ],
     "names": [],
     "file": "index.css"
